@@ -1,0 +1,14 @@
+{
+  "General" : {
+  "deadCanWin" : true
+  },
+  "roles" : {
+    "seer" : {
+      "tags" : {
+        "fullInformation" : false
+      },
+      "name" : "Seher",
+      "nightActive" : true
+    }
+  }
+}
